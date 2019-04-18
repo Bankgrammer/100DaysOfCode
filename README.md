@@ -15,3 +15,6 @@
   <li> Advanced Objects </li>
   <li> ES7 & ES8 </li>
 </ul>  
+
+<h1> Day 18: </h1>
+  <p> Learned how to use  <b>DEFAULT ARGUMENTS<b> in JavaScript(ES6) then I designed SERVICES section for an Agency website </p>
